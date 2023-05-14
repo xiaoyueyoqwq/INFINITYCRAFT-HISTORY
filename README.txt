@@ -1,4 +1,5 @@
 # INFINITYCRAFT-HISTORY
+
 INFINTYCRAFT社区2023年度GitHub发展日志仓库
 2023/1/21：IFC举办除夕跨年晚会，高层开始进行整改
 2023/1/25：开启群组模式 Velocity万岁！
