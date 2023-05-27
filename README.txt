@@ -207,4 +207,4 @@ INFINTYCRAFT社区2023年度GitHub发展日志仓库
 
 服务器BUGFIX v7.20.12.3更新(2023.5.27)
 1.修复宽带占用问题，更换velocity为Proxy
-2.TAB新内容上线：已挖掘方块数
+2.TAB新内容上线：在线时长 (小时)
